@@ -3,12 +3,12 @@ Just Code
 
 ![alt tag](https://www.python.org/static/community_logos/python-logo.png)
 
-** Algorithms **
+#### Algorithms
 
   - [Binary Matrix](https://github.com/yoku2010/just-code)
   - [Number Combination](https://github.com/yoku2010/just-code)
 
-** OOP's **
+#### OOP's
   - [Encapculation](https://github.com/yoku2010/just-code)
   - [Inheritance](https://github.com/yoku2010/just-code)
   - [Polymorphism](https://github.com/yoku2010/just-code)
