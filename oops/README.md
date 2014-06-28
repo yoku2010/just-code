@@ -11,13 +11,9 @@ OOP's
 > Creating multiple classes and different type of inheritances.
 > 
 > - *Single Inheritance*
-> 
 > - *Multi-level Inheritance*
-> 
 > - *Multiple Inheritance*
-> 
 > - *Hierarchical Inheritance*
-> 
 > - *Hybrid Inheritance*
 
 
