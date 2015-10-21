@@ -14,6 +14,9 @@ Just Code
   - [Polymorphism](https://github.com/yoku2010/just-code)
   - [Abstraction](https://github.com/yoku2010/just-code)
 
+#### Utility
+  - [Merge PDF Files](https://github.com/yoku2010/just-code/tree/master/utility/merge-pdf)
+  - [Casandra Operations](https://github.com/yoku2010/just-code/tree/master/utility/casandra-operations)
 
 > *All the implementation done in python only.*
 > 
