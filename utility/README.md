@@ -6,5 +6,5 @@ Utility
 ### Merge PDF Files
 > To merge two pdf files and create a single file using pyPdf library.
 
-### Casandra Operations
-> To create table and add/update/delete/select data from cassandra database.
+### Cassandra Operations
+> To create table and add/update/delete/select data from Cassandra database.

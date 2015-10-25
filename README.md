@@ -5,14 +5,14 @@ Just Code
 
 #### Algorithms
 
-  - [Binary Matrix](https://github.com/yoku2010/just-code)
-  - [Number Combination](https://github.com/yoku2010/just-code)
+  - [Binary Matrix](https://github.com/yoku2010/just-code/blob/master/algorithms/binary_matrix.py)
+  - [Number Combination](https://github.com/yoku2010/just-code/blob/master/algorithms/number_conbination.py)
 
 #### OOP's
-  - [Encapsulation](https://github.com/yoku2010/just-code)
-  - [Inheritance](https://github.com/yoku2010/just-code)
-  - [Polymorphism](https://github.com/yoku2010/just-code)
-  - [Abstraction](https://github.com/yoku2010/just-code)
+  - [Encapsulation](https://github.com/yoku2010/just-code/tree/master/oops)
+  - [Inheritance](https://github.com/yoku2010/just-code/tree/master/oops)
+  - [Polymorphism](https://github.com/yoku2010/just-code/tree/master/oops)
+  - [Abstraction](https://github.com/yoku2010/just-code/tree/master/oops)
 
 #### Utility
   - [Merge PDF Files](https://github.com/yoku2010/just-code/tree/master/utility/merge-pdf)
