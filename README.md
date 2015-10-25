@@ -6,7 +6,7 @@ Just Code
 #### Algorithms
 
   - [Binary Matrix](https://github.com/yoku2010/just-code/blob/master/algorithms/binary_matrix.py)
-  - [Number Combination](https://github.com/yoku2010/just-code/blob/master/algorithms/number_conbination.py)
+  - [Number Combination](https://github.com/yoku2010/just-code/blob/master/algorithms/number_combination.py)
 
 #### OOP's
   - [Encapsulation](https://github.com/yoku2010/just-code/tree/master/oops)

@@ -11,7 +11,7 @@ class BinaryMatrix(object):
         ]
         self.temp_storage = 0   #Initial Declaration O(1) space complexity
 
-    def proccess(self):
+    def process(self):
         self.temp_storage = self.matrix[0][0]           # Step - 1
 
         for i in xrange(1, len(self.matrix)):
@@ -42,5 +42,5 @@ class BinaryMatrix(object):
 
 if '__main__' == __name__:
     bm = BinaryMatrix()
-    bm.proccess()
+    bm.process()
     bm.display()
