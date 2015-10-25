@@ -9,15 +9,15 @@ Just Code
   - [Number Combination](https://github.com/yoku2010/just-code)
 
 #### OOP's
-  - [Encapculation](https://github.com/yoku2010/just-code)
+  - [Encapsulation](https://github.com/yoku2010/just-code)
   - [Inheritance](https://github.com/yoku2010/just-code)
   - [Polymorphism](https://github.com/yoku2010/just-code)
   - [Abstraction](https://github.com/yoku2010/just-code)
 
 #### Utility
   - [Merge PDF Files](https://github.com/yoku2010/just-code/tree/master/utility/merge-pdf)
-  - [Casandra Operations](https://github.com/yoku2010/just-code/tree/master/utility/casandra-operations)
+  - [Cassandra Operations](https://github.com/yoku2010/just-code/tree/master/utility/cassandra-operations)
 
 > *All the implementation done in python only.*
-> 
+>
 > *It has my coding exercises and algorithms implementation.*

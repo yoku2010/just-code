@@ -24,7 +24,7 @@ class Company(HR):
         HR.__init__(self)
         for cls in HR.__bases__:
             cls.__init__(self)
-        self.company_name = 'Crubod'
+        self.company_name = 'Marutsakha'
         print 'Company __init__()'
 
 
