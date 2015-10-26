@@ -12,6 +12,9 @@ class BinaryMatrix(object):
         self.temp_storage = 0   #Initial Declaration O(1) space complexity
 
     def process(self):
+        '''
+        Algorithm process (please check "Binary Matrix.docx" file for more understanding.)
+        '''
         self.temp_storage = self.matrix[0][0]           # Step - 1
 
         for i in xrange(1, len(self.matrix)):
@@ -37,6 +40,9 @@ class BinaryMatrix(object):
 
 
     def display(self):
+        '''
+        Display the result Matrix
+        '''
         for i in xrange(len(self.matrix)):
             print ' '.join(map(str,self.matrix[i]))
 
