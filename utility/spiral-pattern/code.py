@@ -1,5 +1,20 @@
 #!/usr/bin/python
 
+"""
+@author: Yogesh Kumar
+@summary: To draw a spiral pattern of numbers like that.
+
+Enter Number of Element: 21
+
+17     	16     	15     	14     	13
+18     	5      	4      	3      	12
+19     	6      	1      	2      	11
+20     	7      	8      	9      	10
+21
+
+"""
+
+
 def spiral_pattern(number):
     n = 2
 
