@@ -8,3 +8,6 @@ Utility
 
 ### Cassandra Operations
 > To create table and add/update/delete/select data from Cassandra database.
+
+### Spiral Pattern of Numbers
+> To create a spiral pattern of numbers (see e.g. inside code.)
